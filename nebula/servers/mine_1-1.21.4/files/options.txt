@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/260318.zip", "file/mine.zip"]
+resourcePacks:["vanilla"]
 incompatibleResourcePacks:[]
 lastServer:180.227.223.72
 lang:ko_kr

@@ -374,9 +374,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3709,
+            "size": 3674,
             "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/options.txt",
-            "MD5": "35947cb2db50649eb2c3a6773f1065e4",
+            "MD5": "a892db633aba5ea909bc96fce8a0bda1",
             "path": "options.txt"
           }
         },
