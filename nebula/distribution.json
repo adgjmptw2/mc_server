@@ -381,28 +381,6 @@
           }
         },
         {
-          "id": "260318.zip",
-          "name": "260318.zip",
-          "type": "File",
-          "artifact": {
-            "size": 30818790,
-            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/resourcepacks/260318.zip",
-            "MD5": "cd173ec6b34dc336e125d2dbdc6278da",
-            "path": "resourcepacks/260318.zip"
-          }
-        },
-        {
-          "id": "mine.zip",
-          "name": "mine.zip",
-          "type": "File",
-          "artifact": {
-            "size": 669198,
-            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/resourcepacks/mine.zip",
-            "MD5": "2e14cd280fafa8258ffd1378890a89f4",
-            "path": "resourcepacks/mine.zip"
-          }
-        },
-        {
           "id": "ComplementaryUnbound_r5.1.1 (1).zip",
           "name": "ComplementaryUnbound_r5.1.1 (1).zip",
           "type": "File",
