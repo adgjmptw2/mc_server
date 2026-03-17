@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "com.afoxxvi:asteorbar:1.5.3@jar",
+          "name": "AsteorBar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1130246,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/asteorbar-fabric-1.21.4-1.5.3.jar",
+            "MD5": "bdf55a581e3b98666305dba8885884ec"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.9.5@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
