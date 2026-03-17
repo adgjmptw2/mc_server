@@ -216,6 +216,160 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 315,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/iris.properties",
+            "MD5": "a04eb356253ca48181d0340f3b712ebb",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 26,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/lib/client.cfg",
+            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
+            "path": "config/xaero/lib/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 236,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/lib/common.cfg",
+            "MD5": "e085e122e32132e1fa73ac927f7ece81",
+            "path": "config/xaero/lib/common.cfg"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 121,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/lib/profiles/default.cfg",
+            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
+            "path": "config/xaero/lib/profiles/default.cfg"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/lib/server_profiles/default.cfg",
+            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+            "path": "config/xaero/lib/server_profiles/default.cfg"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 235,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/minimap/client.cfg",
+            "MD5": "7a8d5e6353c7471f6002052f1fbd71bb",
+            "path": "config/xaero/minimap/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/minimap/common.cfg",
+            "MD5": "48d56532be92f58e976a2d1753abdd35",
+            "path": "config/xaero/minimap/common.cfg"
+          }
+        },
+        {
+          "id": "default_radar_categories_client.json",
+          "name": "default_radar_categories_client.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/minimap/default_radar_categories_client.json",
+            "MD5": "e87f24bcf76e9dd754062655420a3773",
+            "path": "config/xaero/minimap/default_radar_categories_client.json"
+          }
+        },
+        {
+          "id": "default_radar_categories_server.json",
+          "name": "default_radar_categories_server.json",
+          "type": "File",
+          "artifact": {
+            "size": 4597,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/minimap/default_radar_categories_server.json",
+            "MD5": "7ffe568a308241b93166af2d45ce79c7",
+            "path": "config/xaero/minimap/default_radar_categories_server.json"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 3753,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/minimap/profiles/default.cfg",
+            "MD5": "3987fabbb44653402d0900fe8bb58cf9",
+            "path": "config/xaero/minimap/profiles/default.cfg"
+          }
+        },
+        {
+          "id": "default.cfg.json",
+          "name": "default.cfg.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+            "MD5": "e87f24bcf76e9dd754062655420a3773",
+            "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+          }
+        },
+        {
+          "id": "default.cfg.txt",
+          "name": "default.cfg.txt",
+          "type": "File",
+          "artifact": {
+            "size": 684,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+            "MD5": "64d98932063f0be723920fbdb1de1268",
+            "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaero/minimap/server_profiles/default.cfg",
+            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+            "path": "config/xaero/minimap/server_profiles/default.cfg"
+          }
+        },
+        {
+          "id": "xaerohud.txt",
+          "name": "xaerohud.txt",
+          "type": "File",
+          "artifact": {
+            "size": 125,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/config/xaerohud.txt",
+            "MD5": "395134b5d8c8113ef0d7e913a073f788",
+            "path": "config/xaerohud.txt"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -257,6 +411,17 @@
             "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.1.1%20(1).zip",
             "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
             "path": "shaderpacks/ComplementaryUnbound_r5.1.1 (1).zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.1.1 (1).zip.txt",
+          "name": "ComplementaryUnbound_r5.1.1 (1).zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 235,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.1.1%20(1).zip.txt",
+            "MD5": "3dd30d3ab6cd9ded2e53e72ac7a79845",
+            "path": "shaderpacks/ComplementaryUnbound_r5.1.1 (1).zip.txt"
           }
         }
       ]
