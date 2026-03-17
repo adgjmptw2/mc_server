@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/MINE/Desktop/MC/workspace/Nebula-master/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "mine_1 (Minecraft 1.21.4)",
+    "description": "mine_1 Running Minecraft 1.21.4 (Fabric v0.18.4)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "211.250.255.166",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": []
+}
