@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 163711,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/caramelChat-mc1.21.1-fabric-1.2.2.jar",
+            "MD5": "59c8ae912459442c192ff5537bf17f7a"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.9.5@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
@@ -166,6 +176,16 @@
           }
         },
         {
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:2.1.9@jar",
+          "name": "Inventory Profiles Next",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1304926,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/InventoryProfilesNext-fabric-1.21.4-2.1.9.jar",
+            "MD5": "363290e285b1e950f74a3601f9baba9d"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -183,6 +203,16 @@
             "size": 797555,
             "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/lithium-fabric-0.15.3+mc1.21.4%20(1).jar",
             "MD5": "7a3a807eed9c4868fbe14cecd8bb082d"
+          }
+        },
+        {
+          "id": "me.shedaniel.rei.impl.init:roughlyenoughitems:18.0.808@jar",
+          "name": "Roughly Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2497700,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/RoughlyEnoughItems-18.0.808-fabric.jar",
+            "MD5": "6e8cdd24eb1082cf1bf3bf50f5aa4b48"
           }
         },
         {
@@ -374,9 +404,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3674,
+            "size": 3660,
             "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/options.txt",
-            "MD5": "a892db633aba5ea909bc96fce8a0bda1",
+            "MD5": "fbde3b2b0260cb0e54ce4a722420a1f2",
             "path": "options.txt"
           }
         },
