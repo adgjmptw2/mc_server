@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "dev.architectury.utils:architectury:15.0.3@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 589645,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/architectury-15.0.3-fabric.jar",
+            "MD5": "29796a5960d833cf95d6f46668c13d55"
+          }
+        },
+        {
           "id": "com.afoxxvi:asteorbar:1.5.3@jar",
           "name": "AsteorBar",
           "type": "FabricMod",
@@ -156,6 +166,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.9+kotlin.2.3.10@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7642216,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.9+kotlin.2.3.10%20(1).jar",
+            "MD5": "5a82c29fbbfdd3acbb9da9229ae0e32d"
+          }
+        },
+        {
           "id": "generated.fabricmod:ferritecore:7.1.3@jar",
           "name": "FerriteCore",
           "type": "FabricMod",
@@ -193,6 +213,16 @@
             "size": 2682702,
             "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc:libipn:6.5.1@jar",
+          "name": "LibIPN",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 633630,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/libIPN-fabric-1.21.4-6.5.1.jar",
+            "MD5": "608b280fb0153a881972e1f8b8fcf1b8"
           }
         },
         {
