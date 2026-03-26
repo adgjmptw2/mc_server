@@ -13,7 +13,7 @@
       "description": "mine_1 Running Minecraft 1.21.4 (Fabric v0.18.4)",
       "icon": null,
       "version": "1.0.0",
-      "address": "211.250.255.166",
+      "address": "180.227.223.72",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -414,9 +414,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3660,
+            "size": 3647,
             "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/options.txt",
-            "MD5": "fbde3b2b0260cb0e54ce4a722420a1f2",
+            "MD5": "d785f3e260640cbdd928f35d1fe131d2",
             "path": "options.txt"
           }
         },
