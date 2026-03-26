@@ -146,6 +146,16 @@
           }
         },
         {
+          "id": "com.ezzenix:chatanimation:1.0.6@jar",
+          "name": "ChatAnimation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 553941,
+            "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/fabricmods/required/chatanimation-1.0.6.jar",
+            "MD5": "2f2f27d257421c40ef46fd598917e5aa"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.9.5@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
@@ -436,9 +446,9 @@
           "name": "ComplementaryUnbound_r5.1.1 (1).zip.txt",
           "type": "File",
           "artifact": {
-            "size": 235,
+            "size": 269,
             "url": "https://jade-crepe-0f2434.netlify.app/nebula/servers/mine_1-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.1.1%20(1).zip.txt",
-            "MD5": "3dd30d3ab6cd9ded2e53e72ac7a79845",
+            "MD5": "d4de9dfc7a85c2469b0b618e9d324e5f",
             "path": "shaderpacks/ComplementaryUnbound_r5.1.1 (1).zip.txt"
           }
         }
